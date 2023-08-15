@@ -9,7 +9,9 @@
   녹화, 유저 피드백, AI기반 실시간 피드백 등을 받을 수 있는 발표연습플랫폼
 </div>
 
-## 기획의도
+## 목차
+1. [개발기간](#개발기간)
+2. [시연영상](#시연영상)
 
 ## 개발기간
 크래프톤 정글 2기 나만의 무기 갖기 프로젝트       
@@ -17,10 +19,12 @@
 
 ## 팀원소개
  <img src="https://file.notion.so/f/s/ec8c1999-d336-4efa-8675-1362ee8e92c4/Untitled.png?id=1a97c6ce-cb4f-4b3f-8e19-ea8aa19ab2c6&table=block&spaceId=2698952d-71f8-4491-9e44-6dcbf3418b0b&expirationTimestamp=1692194400000&signature=orNHRK_griXr6ylgQ4SGHrOXXDlmPRZWbnKQcopIl84&downloadName=Untitled.png"/>
+
 [박준익](https://github.com/cod2048) 
 [조수빈](https://github.com/ChoSooBeen)
-[이시형](https://github.com/camel215)
 [장재균](https://github.com/JangJaeKyun)
+[이시형](https://github.com/camel215)
+
 ## 기술스택
 ### Frontend
 <div>
@@ -196,3 +200,12 @@
     </ul>
   </li>
 </ul>
+
+## 프로젝트 아키텍쳐
+<img src="https://file.notion.so/f/s/453b1fde-00e4-4d7e-96bd-901370adc8fa/Untitled.png?id=487b7344-05fe-4651-b480-a2d516f84fe4&table=block&spaceId=2698952d-71f8-4491-9e44-6dcbf3418b0b&expirationTimestamp=1692194400000&signature=fFDjdajjIu28mJVNrXICjDTXXDnaJYKKERZvWyJnL_Q&downloadName=Untitled.png">
+
+## 포스터
+<img src="https://file.notion.so/f/s/16d5f5ea-853f-4916-b47e-881f63659d83/Untitled.png?id=bb1cf153-7779-4105-ae39-57d982e06978&table=block&spaceId=2698952d-71f8-4491-9e44-6dcbf3418b0b&expirationTimestamp=1692194400000&signature=MZgGUdaysuKO5rtvgoqQUfODPuvEwttlKE-E_Euz9ns&downloadName=Untitled.png">
+
+## 시연영상
+[시연 영상 보러가기](https://youtu.be/vYHR8_buPw0)
