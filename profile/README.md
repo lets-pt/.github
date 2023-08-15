@@ -9,7 +9,16 @@
   녹화, 유저 피드백, AI기반 실시간 피드백 등을 받을 수 있는 발표연습플랫폼
 </div>
 
-## 기술 스택
+## 기획의도
+
+## 개발기간
+크래프톤 정글 2기 나만의 무기 갖기 프로젝트       
+2023.07.07 ~ 2023.08.12
+
+## 팀원소개
+
+
+## 기술스택
 ### Frontend
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -49,9 +58,8 @@
     연습기록 - 연습기록을 남겨두어 실시간이 아니더라도 다른 유저들이 언제든지 피드백 가능
   </li>
 </ul>
-<div>
-  서비스소개
-</div>
+
+## 서비스소개
 <ul>
   <li>
     메인페이지
