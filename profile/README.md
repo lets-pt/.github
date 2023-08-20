@@ -24,8 +24,6 @@
 2023.07.07 ~ 2023.08.12
 
 ## 팀원소개
- <img src="https://file.notion.so/f/s/ec8c1999-d336-4efa-8675-1362ee8e92c4/Untitled.png?id=1a97c6ce-cb4f-4b3f-8e19-ea8aa19ab2c6&table=block&spaceId=2698952d-71f8-4491-9e44-6dcbf3418b0b&expirationTimestamp=1692194400000&signature=orNHRK_griXr6ylgQ4SGHrOXXDlmPRZWbnKQcopIl84&downloadName=Untitled.png"/>
-
 |이름|담당|GitHub|
 |------|---|---|
 |박준익|팀장|[cod2048](https://github.com/cod2048)|
