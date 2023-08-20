@@ -26,10 +26,12 @@
 ## 팀원소개
  <img src="https://file.notion.so/f/s/ec8c1999-d336-4efa-8675-1362ee8e92c4/Untitled.png?id=1a97c6ce-cb4f-4b3f-8e19-ea8aa19ab2c6&table=block&spaceId=2698952d-71f8-4491-9e44-6dcbf3418b0b&expirationTimestamp=1692194400000&signature=orNHRK_griXr6ylgQ4SGHrOXXDlmPRZWbnKQcopIl84&downloadName=Untitled.png"/>
 
-[박준익](https://github.com/cod2048) 
-[조수빈](https://github.com/ChoSooBeen)
-[장재균](https://github.com/JangJaeKyun)
-[이시형](https://github.com/camel215)
+|이름|담당|GitHub|
+|------|---|---|
+|박준익|팀장|[cod2048](https://github.com/cod2048)|
+|조수빈|팀원|[ChoSooBeen](https://github.com/ChoSooBeen)|
+|장재균|팀원|[JangJaeKyun](https://github.com/JangJaeKyun)|
+|이시형|팀원|[camel215](https://github.com/camel215)|
 
 ## 기술스택
 ### Frontend
